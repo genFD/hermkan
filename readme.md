@@ -1,4 +1,4 @@
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=hermkan&repo=code-journey-intro&description=from-mini-js-ts-projects-to-a-production-grade-full-stack-application&show_icons=true&count_private=true&layout=compact&show_owner=true&theme=gotham&bg_color=0D111700&text_color=C9D1D9&hide_title=true&hide_border=true)](https://github.com/hermkan/code-journey-intro)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=hermkan&repo=code-journey-intro&show_icons=true&count_private=true&layout=compact&show_owner=true&theme=gotham&bg_color=0D111700&text_color=C9D1D9&hide_title=true&hide_border=true)](https://github.com/hermkan/code-journey-intro)
 
 [![Hermann GitHub stats](https://github-readme-stats.vercel.app/api?username=hermkan&show_icons=true&count_private=true&layout=compact&show_owner=true&theme=gotham&bg_color=0D111700&text_color=C9D1D9&hide_title=true&hide_border=true)](https://github.com/hermkan)
 
